@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <server class="org.jpos.q2.iso.QServer" logger="Q2" name="ServerTrxMan">
-    <attr name="port" type="java.lang.Integer">2300</attr>
+    <attr name="port" type="java.lang.Integer">2333</attr>
     <attr name="maxSessions" type="java.lang.Integer">20</attr>
     <attr name="minSessions" type="java.lang.Integer">10</attr>
 
